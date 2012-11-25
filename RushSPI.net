@@ -1,0 +1,295 @@
+# EESchema Netlist Version 1.1 created  25/11/2012 15:38:13
+(
+ ( /509BA994 SM0603_Capa C1 0,1uF
+  ( 1 VDEVICE )
+  ( 2 GND )
+ )
+ ( /509B875B SM0603_Capa C2 27pF
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /509B84AC SM0603_Capa C3 0,1uF
+  ( 1 N-000022 )
+  ( 2 GND )
+ )
+ ( /509B8758 SM0603_Capa C4 27pF
+  ( 1 N-000017 )
+  ( 2 GND )
+ )
+ ( /509B84B1 SM0603_Capa C5 0,1uF
+  ( 1 N-000024 )
+  ( 2 GND )
+ )
+ ( /509BD842 SM0603_Capa C6 10nF
+  ( 1 RESET )
+  ( 2 GND )
+ )
+ ( /509B8CA3 SM0603_Capa C7 10uF
+  ( 1 POWER )
+  ( 2 GND )
+ )
+ ( /509B895B SM0603_Capa C8 10uF
+  ( 1 POWER )
+  ( 2 GND )
+ )
+ ( /509B8CAA SM0603_Capa C9 0,1uF
+  ( 1 POWER )
+  ( 2 GND )
+ )
+ ( /509B8998 SM0603_Capa C10 0,1uF
+  ( 1 POWER )
+  ( 2 GND )
+ )
+ ( /509B899D SM0603_Capa C11 0,1uF
+  ( 1 POWER )
+  ( 2 GND )
+ )
+ ( /509AA549 MINI-USB-B-SMD CON1 USB_MINI_B
+  ( 1 VUSB )
+  ( 2 DM )
+  ( 3 DP )
+  ( 4 ? )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 GND )
+  ( 8 GND )
+  ( 9 GND )
+ )
+ ( /509B935C SM0603 D1 LED
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /509CB365 SM0603 FB1 ESD_FILTER
+  ( 1 DM )
+  ( 2 GND )
+ )
+ ( /509CB3F5 SM0603 FB2 ESD_FILTER
+  ( 1 GND )
+  ( 2 DP )
+ )
+ ( /509AA7BB LQFP48 IC1 FT232H
+  ( 1 N-000018 )
+  ( 2 N-000017 )
+  ( 3 POWER )
+  ( 4 GND )
+  ( 5 N-000019 )
+  ( 6 DM )
+  ( 7 DP )
+  ( 8 POWER )
+  ( 9 GND )
+  ( 10 GND )
+  ( 11 GND )
+  ( 12 POWER )
+  ( 13 SPI_SK )
+  ( 14 SPI_DO )
+  ( 15 SPI_DI )
+  ( 16 SPI_CS )
+  ( 17 SPI_WP )
+  ( 18 SPI_HOLD )
+  ( 19 GPIO1 )
+  ( 20 GPIO2 )
+  ( 21 GPIO3 )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 POWER )
+  ( 25 GPIO4 )
+  ( 26 GPIO5 )
+  ( 27 GPIO6 )
+  ( 28 GPIO7 )
+  ( 29 GPIO8 )
+  ( 30 GPIO9 )
+  ( 31 GPIO10 )
+  ( 32 GPIO11 )
+  ( 33 GPIO12 )
+  ( 34 RESET )
+  ( 35 GND )
+  ( 36 GND )
+  ( 37 N-000024 )
+  ( 38 N-000022 )
+  ( 39 POWER )
+  ( 40 VREGIN )
+  ( 41 GND )
+  ( 42 GND )
+  ( 43 ? )
+  ( 44 ? )
+  ( 45 ? )
+  ( 46 POWER )
+  ( 47 GND )
+  ( 48 GND )
+ )
+ ( /509BAA35 PIN_ARRAY_2X1 JP1 JUMPER
+  ( 1 VUSB )
+  ( 2 VDEVICE )
+ )
+ ( /509BF0A9 PIN_ARRAY_2X1 JP2 JUMPER
+  ( 1 POWER )
+  ( 2 N-000035 )
+ )
+ ( /509CB391 SM0603 L1 600R/500mA
+  ( 1 VDEVICE )
+  ( 2 VREGIN )
+ )
+ ( /509B8721 HC-49V OSC1 12,000_Mhz
+  ( 1 N-000018 )
+  ( 2 N-000017 )
+ )
+ ( /509B9786 pin_array_12x2 P1 CONN_12X2
+  ( 1 VUSB )
+  ( 2 VDEVICE )
+  ( 3 GND )
+  ( 4 GND )
+  ( 5 SPI_SK )
+  ( 6 SPI_DO )
+  ( 7 SPI_DI )
+  ( 8 SPI_CS )
+  ( 9 SPI_WP )
+  ( 10 SPI_HOLD )
+  ( 11 GPIO1 )
+  ( 12 GPIO2 )
+  ( 13 GPIO3 )
+  ( 14 GPIO4 )
+  ( 15 GPIO5 )
+  ( 16 GPIO6 )
+  ( 17 GPIO7 )
+  ( 18 GPIO8 )
+  ( 19 GPIO9 )
+  ( 20 GPIO10 )
+  ( 21 GPIO11 )
+  ( 22 GPIO12 )
+  ( 23 RESET )
+  ( 24 GND )
+ )
+ ( /509C1045 DIP-8__300 P2 SPI
+  ( 1 SPI_CS )
+  ( 2 SPI_DI )
+  ( 3 SPI_WP )
+  ( 4 GND )
+  ( 5 SPI_DO )
+  ( 6 SPI_SK )
+  ( 7 SPI_HOLD )
+  ( 8 POWER )
+ )
+ ( /509B860A SM0603_Resistor R1 10K
+  ( 1 POWER )
+  ( 2 RESET )
+ )
+ ( /509B87CF SM0603_Resistor R2 12K
+  ( 1 N-000019 )
+  ( 2 GND )
+ )
+ ( /509B9324 SM0603_Resistor R3 1K
+  ( 1 POWER )
+  ( 2 N-000001 )
+ )
+ ( /509BA145 SM0603_Resistor R4 4K7
+  ( 1 SPI_WP )
+  ( 2 N-000035 )
+ )
+ ( /509BA1A4 SM0603_Resistor R5 4K7
+  ( 1 SPI_HOLD )
+  ( 2 N-000035 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

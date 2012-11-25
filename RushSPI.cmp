@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 25/11/2012 15:38:13
+
+BeginCmp
+TimeStamp = /509BA994;
+Reference = C1;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B875B;
+Reference = C2;
+ValeurCmp = 27pF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B84AC;
+Reference = C3;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B8758;
+Reference = C4;
+ValeurCmp = 27pF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B84B1;
+Reference = C5;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509BD842;
+Reference = C6;
+ValeurCmp = 10nF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B8CA3;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B895B;
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B8CAA;
+Reference = C9;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B8998;
+Reference = C10;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B899D;
+Reference = C11;
+ValeurCmp = 0,1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /509AA549;
+Reference = CON1;
+ValeurCmp = USB_MINI_B;
+IdModule  = MINI-USB-B-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B935C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /509CB365;
+Reference = FB1;
+ValeurCmp = ESD_FILTER;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /509CB3F5;
+Reference = FB2;
+ValeurCmp = ESD_FILTER;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /509AA7BB;
+Reference = IC1;
+ValeurCmp = FT232H;
+IdModule  = LQFP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /509BAA35;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /509BF0A9;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /509CB391;
+Reference = L1;
+ValeurCmp = 600R/500mA;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B8721;
+Reference = OSC1;
+ValeurCmp = 12,000_Mhz;
+IdModule  = HC-49V;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B9786;
+Reference = P1;
+ValeurCmp = CONN_12X2;
+IdModule  = pin_array_12x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /509C1045;
+Reference = P2;
+ValeurCmp = SPI;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B860A;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B87CF;
+Reference = R2;
+ValeurCmp = 12K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /509B9324;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /509BA145;
+Reference = R4;
+ValeurCmp = 4K7;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /509BA1A4;
+Reference = R5;
+ValeurCmp = 4K7;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+EndListe
